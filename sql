@@ -1,4 +1,4 @@
-DB Model for Guvi Zen Class
+DataBase Model for Guvi Zen Class
 
 create database zen;
 
